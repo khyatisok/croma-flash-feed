@@ -3,7 +3,7 @@ name: Update Flash Sale Feed
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 18,22,2,6,10,14 * * *"
+    - cron: "35 18,22,2,6,10,14 * * *"
 
 permissions:
   contents: write
