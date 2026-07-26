@@ -19,7 +19,7 @@ updated, stay happy! </description>
 <g:gtin>8906194458882</g:gtin>
 <link>https://www.croma.com/acer-aspire-3-amd-ryzen-3-5425u-laptop-8gb-256gb-ssd-windows-11-home-15-6-inch-full-hd-ips-display-ms-office-home-student-2021-silver-1-79-kg-/p/323727</link>
 <g:price>79999.0 INR</g:price>
-<g:sale_price>44990.0 INR</g:sale_price>
+<g:sale_price>44490.0 INR</g:sale_price>
 <g:brand>Acer</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/323727_0_qdTdIH2jC.png?updatedAt=1783326651388</g:image_link>
@@ -46,7 +46,7 @@ updated, stay happy! </description>
 <g:gtin>8906194458110</g:gtin>
 <link>https://www.croma.com/acer-aspire-5-intel-core-ultra-5-laptop-16gb-512gb-ssd-windows-11-home-14-inch-wuxga-ips-display-ms-office-silver-1-2-kg-/p/323615</link>
 <g:price>99999.0 INR</g:price>
-<g:sale_price>70990.0 INR</g:sale_price>
+<g:sale_price>69990.0 INR</g:sale_price>
 <g:brand>Acer</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/323615_0_uEVNRr5R8Y.png?updatedAt=1783326915036</g:image_link>
@@ -103,7 +103,7 @@ updated, stay happy! </description>
 <g:gtin>199276028242</g:gtin>
 <link>https://www.croma.com/lenovo-loq-15arp10e-amd-ryzen-7-gaming-laptop-16gb-512gb-ssd-windows-11-home-6gb-graphics-15-6-inch-144-hz-fhd-ips-display-nvidia-geforce-rtx-4050-ms-office-home-2024-luna-grey-1-8-kg-/p/323362</link>
 <g:price>190390.0 INR</g:price>
-<g:sale_price>115990.0 INR</g:sale_price>
+<g:sale_price>109990.0 INR</g:sale_price>
 <g:brand>Lenovo</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/323362_0_8P7mqAoQA.png?updatedAt=1783326326859</g:image_link>
@@ -117,36 +117,6 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>49.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>322685</g:id>
-<title>SAMSUNG Galaxy F17 5G (6GB RAM, 128GB, Neo Black)</title>
-<description>Buy SAMSUNG Galaxy F17 5G (6GB RAM, 128GB, Neo Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phones</g:google_product_category>
-<g:product_type>Phones &amp; Wearables&gt;Mobile Phones&gt;Android Phones</g:product_type>
-<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
-<g:custom_label_1>Mobile Phones</g:custom_label_1>
-<g:custom_label_2>Android Phones</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8806097805229</g:gtin>
-<link>https://www.croma.com/samsung-galaxy-f17-5g-6gb-ram-128gb-neo-black-/p/322685</link>
-<g:price>22999.0 INR</g:price>
-<g:sale_price>20999.0 INR</g:sale_price>
-<g:brand>Samsung</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/322685_0_iGm8eIezm3.png?updatedAt=1776326872100</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/322685_0_iGm8eIezm3.png?updatedAt=1776326872100</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Neo Black </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>79.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -170,6 +140,36 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/322492_0_-LZrZ6EYi.png?updatedAt=1776243377369</g:additional_image_link>
 <g:availability>out_of_stock</g:availability>
 <g:color> Forest Green </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>79.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>322685</g:id>
+<title>SAMSUNG Galaxy F17 5G (6GB RAM, 128GB, Neo Black)</title>
+<description>Buy SAMSUNG Galaxy F17 5G (6GB RAM, 128GB, Neo Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phones</g:google_product_category>
+<g:product_type>Phones &amp; Wearables&gt;Mobile Phones&gt;Android Phones</g:product_type>
+<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
+<g:custom_label_1>Mobile Phones</g:custom_label_1>
+<g:custom_label_2>Android Phones</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8806097805229</g:gtin>
+<link>https://www.croma.com/samsung-galaxy-f17-5g-6gb-ram-128gb-neo-black-/p/322685</link>
+<g:price>22999.0 INR</g:price>
+<g:sale_price>20999.0 INR</g:sale_price>
+<g:brand>Samsung</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/322685_0_iGm8eIezm3.png?updatedAt=1776326872100</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/322685_0_iGm8eIezm3.png?updatedAt=1776326872100</g:additional_image_link>
+<g:availability>out_of_stock</g:availability>
+<g:color> Neo Black </g:color>
 <g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
 <g:offer_type>NO_CODE</g:offer_type>
 <g:redemption_channel>ONLINE</g:redemption_channel>
